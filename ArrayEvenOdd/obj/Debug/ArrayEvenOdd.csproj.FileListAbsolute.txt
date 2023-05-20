@@ -1,0 +1,7 @@
+E:\Ascent\.NetCore\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\ArrayEvenOdd.exe.config
+E:\Ascent\.NetCore\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\ArrayEvenOdd.exe
+E:\Ascent\.NetCore\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\ArrayEvenOdd.pdb
+E:\Ascent\.NetCore\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\ArrayEvenOdd.csprojAssemblyReference.cache
+E:\Ascent\.NetCore\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\ArrayEvenOdd.csproj.CoreCompileInputs.cache
+E:\Ascent\.NetCore\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\ArrayEvenOdd.exe
+E:\Ascent\.NetCore\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\ArrayEvenOdd.pdb
